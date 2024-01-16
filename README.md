@@ -1,5 +1,5 @@
 # 💫 About Me:
-Halo, saya Usamah Abdillah Hanif, seorang mahasiswa di Universitas Pamulang. Jurusan saya adalah Sistem Informasi, dan saya tengah bersemangat mempelajari pemrograman dengan impian besar untuk menjadi seorang web developer di masa depan. Saya percaya bahwa dengan dedikasi dan kerja keras, saya dapat mencapai semua tujuan saya dalam dunia teknologi. Saya percaya bahwa setiap baris kode yang kita tulis dapat menjadi langkah menuju inovasi dan kemajuan.
+Halo, saya Usamah Abdillah Hanif, seorang mahasiswa di Universitas Pamulang. Jurusan saya adalah Sistem Informasi, dan saya tengah mempelajari pemrograman dengan impian yaitu untuk menjadi seorang web developer di masa depan. Saya percaya bahwa dengan dedikasi dan kerja keras yang saya kerahkan, saya dapat mencapai semua tujuan yang saya inginkan dalam dunia teknologi. Saya percaya bahwa setiap baris kode yang kita tulis dapat menjadi bagian dari langkah-langkah menuju inovasi dan kemajuan.
 
 
 ## 🌐 Socials:
